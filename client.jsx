@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-import AA from './TicTacToe';
+import AA from './Mine/MineSearch';
 
 // const WordRelay = require('./WordRelay');
 
